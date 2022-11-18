@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+##Clone the project client branch and server branch 
+
 In the project directory, you can run:
 
 ### `npm start`
