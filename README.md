@@ -10,6 +10,6 @@ DB_HOST=localhost <br>
 DB_USER=root <br>
 DB_PASSWORD= <br>
 DB_NAME=parkingdb <br>
-DB_POR=3306 <br>
+DB_PORT=3306 <br>
 
 
